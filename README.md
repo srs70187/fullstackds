@@ -1,5 +1,5 @@
 ---
-title: Tomorrow's Data Scientist
+title: Fullstack Data Science
 author: Steve Soloway
 description: This document is an outline for what will form the skeleton of a 'learn by doing' reference guide
 for the current or aspiring data scientist. On some level, each bulleted item references a topic 
@@ -11,7 +11,7 @@ designed by the author with the goal of showing a practical application of said 
 
 [TOC]
 
-# Tomorrow's Data Scientist
+# Full stack DS
 
 This document is an outline for what will form the skeleton of a 'learn by doing' reference guide
 for the current or aspiring data scientist. On some level, each bulleted item references a topic 
